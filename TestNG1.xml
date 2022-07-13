@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="testSuite" verbose="2">
+	
+<test name="testName">
+	
+	<classes>
+		
+		<class name="testNG.LoadBrowser" ></class>
+		<class name="testNG.SampleTest" ></class>
+		<!--<class name="testNG.Drive_a_Car" ></class>
+		<class name="testNG.DependencyManagement" ></class>-->
+		
+	</classes>
+	
+</test>	
+	
+</suite>
